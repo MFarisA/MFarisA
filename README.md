@@ -14,7 +14,7 @@
   </a>
   <a href="mailto:muhfarisassami@gmail.com" target="_blank">
     <img align="center"
-         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg"
          alt="Email - muhfarisassami@gmail.com"
          height="30" width="40" />
   </a>
