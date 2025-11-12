@@ -1,24 +1,25 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/muhammadfarisassami" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn - muhammadfarisassami" 
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn - muhammadfarisassami"
          height="30" width="40" />
   </a>
   <a href="https://instagram.com/faris_assami" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="Instagram - faris_assami" 
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram - faris_assami"
          height="30" width="40" />
   </a>
   <a href="mailto:muhfarisassami@gmail.com" target="_blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
-         alt="Email - muhfarisassami@gmail.com" 
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         alt="Email - muhfarisassami@gmail.com"
          height="30" width="40" />
   </a>
 </p>
+
 
 <!-- Top languages card -->
 <picture>
