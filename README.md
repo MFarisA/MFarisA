@@ -12,6 +12,12 @@
          alt="Instagram - faris_assami" 
          height="30" width="40" />
   </a>
+  <a href="mailto:muhfarisassami@gmail.com" target="_blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+         alt="Email - muhfarisassami@gmail.com" 
+         height="30" width="40" />
+  </a>
 </p>
 
 <!-- Top languages card -->
@@ -29,7 +35,7 @@
 </picture>
 
 <!-- Stats card -->
-<picture>
+<!-- <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=mfarisa&show_icons=true&locale=en&theme=dark" 
     media="(prefers-color-scheme: dark)" />
@@ -40,4 +46,4 @@
     align="center" 
     src="https://github-readme-stats.vercel.app/api?username=mfarisa&show_icons=true&locale=en" 
     alt="GitHub Stats" />
-</picture>
+</picture> -->
