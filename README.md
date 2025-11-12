@@ -12,12 +12,6 @@
          alt="Instagram - faris_assami"
          height="30" width="40" />
   </a>
-  <a href="mailto:muhfarisassami@gmail.com" target="_blank">
-    <img align="center"
-         src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg"
-         alt="Email - muhfarisassami@gmail.com"
-         height="30" width="40" />
-  </a>
 </p>
 
 
